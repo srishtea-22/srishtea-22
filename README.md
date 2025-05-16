@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">A frontend developer going full stack!</h4>
+<h4 align="center">A student and full stack developer</h4>
 
 ###
 
