@@ -1,10 +1,11 @@
 
 <h1 align="center">hey! i'm shristy</h1>  
+
 - I’m currently learning more about Go and exploring backend systems.
   
 - View my [portfolio](https://shristys-portfolio.vercel.app/)  
   
-- Ask me - **anything (i'm always eager to learn more :)**  
+- Ask me about - **anything (i'm always eager to learn more :)**  
   
 - How to reach me - **shristychaudhary4679@gmail.com**  
   
