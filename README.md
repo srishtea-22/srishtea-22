@@ -12,8 +12,10 @@
 ```
 Everything that i've worked with -
 
-Languages : Python, Go, Elixir, C++, C#, TypeScript, JavaScript
-Frameworks : React, Next.js, Node.js, Express
-Databases and Cloud : MongoDB, PostgreSQL, Prisma, Supabase, Convex
-Tools and Platforms : Unity, Git, gRPC, AWS, Docker, Linux, WebAssembly, Postman
+Languages : Python, Go, Elixir, C++, C#, TypeScript, JavaScript, LaTeX
+Frontend : React, Next.js, Svelte, GSAP, shadcn/ui, WebAssembly
+Backend: Node.js, Express, FastAPI, gRPC
+Databases/Storage : MongoDB, PostgreSQL, Prisma, Supabase, Convex
+DevOps/Cloud: AWS, Google Cloud Platform, Docker, Linux
+Tools : Git, Postman, Unity
 ```
